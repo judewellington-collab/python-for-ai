@@ -62,3 +62,4 @@ if not os.path.exists('data'):
 # Save to CSV
 df.to_csv('data/priorlake_weather.csv', index=False)
 print("Data saved to data/priorlake_weather.csv")
+print("program end")
